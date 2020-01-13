@@ -1,6 +1,6 @@
-Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to complete 2 tasks:
- - get a random joke from the API
- - get the categories of jokes available under the API
+Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to achieve the following:
+ - Get a random joke from the API
+ - Get the categories of jokes available under the API
 
 ### Examples
 
