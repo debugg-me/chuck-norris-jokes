@@ -41,12 +41,10 @@ Using NPM:
 $ npm test
 ```
 
-Or ig you prefer Yarn:
+Or if you prefer Yarn:
 ```bash
 $ yarn test
 ```
 
 ### Feedback, Issues, Pull Requests
-If you have feedback about this problem, or have found a problem in this excercise, head over there and create an issue. Members of the rust track team are happy to help!
-
-If you want to know more about Exercism, take a look at the contribution guide.
+If you have feedback about this problem, or have found a problem in this excercise, head over there and create an issue. We are always happy to help!
