@@ -1,4 +1,4 @@
-Your task is to use the [Chuck Norris API]() to complete 2 tasks:
+Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to complete 2 tasks:
  - get a random joke from the API
  - get the categories of jokes available under the API
 
@@ -27,9 +27,6 @@ an array of strings, like so:
       ...
 ]
 ```
-
-### Rust Installation
-Refer to the exercism help page for Rust installation and learning resources.
 
 ### Writing your Code
 
