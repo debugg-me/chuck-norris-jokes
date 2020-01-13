@@ -7,7 +7,7 @@ Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to achie
 #### Get a random joke from the API
 
 `getRandomJoke()` should return a random joke from the API in the form of a JS object, like so:
-```JS
+```
 {
     icon_url : "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
     id : "cuMDk9QpSGSIJ3CO2xU7Kg",
@@ -19,7 +19,7 @@ Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to achie
 `getJokeCategories()` should return the categories provieded by the api in the form of 
 an array of strings, like so:
 
-```JS
+```
 [
       "animal",
       "career",
