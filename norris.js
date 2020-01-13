@@ -1,4 +1,5 @@
-const axios = require('axios');
+// Use axios to make API requests
+// const axios = require('axios');
 
 /* 
  *  getRandomJoke
