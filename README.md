@@ -7,6 +7,7 @@ Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to achie
 #### Get a random joke from the API
 
 `getRandomJoke()` should return a random joke from the API in the form of a JS object, like so:
+
 ```JS
 {
     icon_url : "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
@@ -37,14 +38,17 @@ your own convenience and doing intermediate tasks.
 ### Executing tests
 
 Using NPM:
+
 ```bash
 $ npm test
 ```
 
 Or if you prefer Yarn:
+
 ```bash
 $ yarn test
 ```
 
 ### Feedback, Issues, Pull Requests
+
 If you have feedback about this problem, or have found a problem in this excercise, head over there and create an issue. We are always happy to help!
