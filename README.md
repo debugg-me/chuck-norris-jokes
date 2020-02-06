@@ -17,6 +17,8 @@ Your task is to use the [Chuck Norris API](https://api.chucknorris.io/) to achie
 }
 ```
 
+#### Get the categories of jokes available
+
 `getJokeCategories()` should return the categories provieded by the api in the form of 
 an array of strings, like so:
 
